@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisara Ariyawansha</h1>
 <h3 align="center">I am a student of the National Institute of Business Management (NIBM).</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=Profile%20views&color=0e75b6&style=flat" alt="thisaraariyawansha" /> </p>
 
 
 - 🌱 I’m currently learning **National Institute of Business Management (NIBM)**

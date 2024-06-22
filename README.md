@@ -9,7 +9,8 @@
 
 
 - 🌱 I am an undergraduate student at the National Institute of Business Management (NIBM).
-
+- 💬 Ask me about anything, I am happy to help :smile:
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 📫 How to reach me **Thisara.a2001@gmail.com**
 ---
 <br>
@@ -27,9 +28,8 @@
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaraariyawansha&show_icons=true&locale=en&layout=compact" alt="thisaraariyawansha" /></p>
-<p align="center">My Statistics:</p>
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Statistics:</p>
+<div align="center">
 
-| ![Thisara's github stats](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&theme=tokyonight) | ![THISARA GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisaraariyawansha&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisaraariyawansha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+</div>

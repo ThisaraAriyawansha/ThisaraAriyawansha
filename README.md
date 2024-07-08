@@ -127,3 +127,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
 </div>
+
+
+# 📊 GitHub Stats:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisaraariyawansha&theme=default)
+
+
+

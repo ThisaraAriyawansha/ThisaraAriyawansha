@@ -1,4 +1,4 @@
-## <picture><p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px></p></picture>
+## <picture><p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></p></picture>
 <h1 align="center">Hi 👋, I'm Thisara Ariyawansha</h1>
 <h3 align="center">I am a student of the National Institute of Business Management (NIBM).</h3>
 

@@ -16,7 +16,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thisara ariyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisara ariyawansha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/thisara ariyawansha](https://www.linkedin.com/in/thisara-ariyawansha-274263284)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisara ariyawansha" height="30" width="40" /></a>
 <a href="https://fb.com/thisara ariyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisara ariyawansha" height="30" width="40" /></a>
 <a href="https://instagram.com/thisara_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisara_a_" height="30" width="40" /></a>
 <a href="https://medium.com/@thisara.a2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thisara.a2001" height="30" width="40" /></a>

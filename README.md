@@ -125,7 +125,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Statistics:</p>
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&title_color=083358&icon_color=083358)
 </div>
 
 

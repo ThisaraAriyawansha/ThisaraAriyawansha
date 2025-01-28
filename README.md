@@ -11,7 +11,7 @@
 - 🌱 I am an undergraduate student at the National Institute of Business Management (NIBM).
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-- 📫 How to reach me **Thisara.a2001@gmail.com**
+- 📫 How to reach me **thisara.a2001@gmail.com**
 ---
 <br>
 <h3 align="left">Connect with me:</h3>

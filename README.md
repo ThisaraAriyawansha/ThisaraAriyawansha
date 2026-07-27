@@ -48,21 +48,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=false&cache_seconds=86400&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thisaraariyawansha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=false&cache_seconds=86400&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaraariyawansha&layout=compact&hide_border=true&cache_seconds=86400&title_color=ffffff&text_color=ffffff&bg_color=000000">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaraariyawansha&layout=compact&hide_border=true&cache_seconds=86400&title_color=000000&text_color=000000&bg_color=ffffff">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisaraariyawansha&theme=github_dark">
   <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisaraariyawansha&theme=default">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisaraariyawansha&theme=github_dark">
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisaraariyawansha&theme=default">
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisaraariyawansha&theme=github_dark">
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisaraariyawansha&theme=default">
+</picture>
 
 </div>
 

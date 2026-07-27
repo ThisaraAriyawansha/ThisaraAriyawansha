@@ -10,6 +10,8 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=000000&style=flat-square&labelColor=ffffff">
 </picture>
 
+[![Meet my interactive robot](https://img.shields.io/badge/🤖_Meet_my_interactive_robot-000000?style=flat-square)](https://thisaraariyawansha.github.io/ThisaraAriyawansha/robot.html)
+
 </div>
 
 <br>

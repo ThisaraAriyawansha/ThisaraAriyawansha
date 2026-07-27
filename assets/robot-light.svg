@@ -13,6 +13,9 @@
     </filter>
   </defs>
 
+  <circle cx="108" cy="125" r="24" fill="url(#bodyGradL)"/>
+  <circle cx="252" cy="125" r="24" fill="url(#bodyGradL)"/>
+
   <g>
     <path d="M60,232 C18,210 18,148 55,118 C70,106 96,109 101,130 C105,150 85,160 78,181 C72,199 86,216 111,226 Z" fill="url(#bodyGradL)" stroke="#000" stroke-width="2"/>
     <circle cx="55" cy="117" r="27" fill="url(#bodyGradL)" stroke="#000" stroke-width="2"/>

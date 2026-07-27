@@ -1,6 +1,11 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/robot-dark.svg">
+  <img alt="Robot" src="assets/robot-light.svg" width="180">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">
   <img alt="Thisara Ariyawansha" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">
 </picture>
@@ -9,8 +14,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=ffffff&style=flat-square&labelColor=000000">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=000000&style=flat-square&labelColor=ffffff">
 </picture>
-
-[![Meet my interactive robot](https://img.shields.io/badge/🤖_Meet_my_interactive_robot-000000?style=flat-square)](https://thisaraariyawansha.github.io/ThisaraAriyawansha/robot.html)
 
 </div>
 

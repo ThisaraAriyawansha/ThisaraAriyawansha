@@ -1,0 +1,44 @@
+<svg width="220" height="200" viewBox="0 0 360 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blinking robot">
+  <defs>
+    <linearGradient id="bodyGradD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e9e9e9"/>
+      <stop offset="100%" stop-color="#8f8f8f"/>
+    </linearGradient>
+    <filter id="glowD" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <path d="M60,232 C18,210 18,148 55,118 C70,106 96,109 101,130 C105,150 85,160 78,181 C72,199 86,216 111,226 Z" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+  <path d="M300,232 C342,210 342,148 305,118 C290,106 264,109 259,130 C255,150 275,160 282,181 C288,199 274,216 249,226 Z" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+  <circle cx="55" cy="117" r="27" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+  <circle cx="305" cy="117" r="27" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+
+  <path d="M110,320 L110,222 C110,182 130,162 180,162 C230,162 250,182 250,222 L250,320 Z" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+  <circle cx="180" cy="206" r="7" fill="#00e5ff" filter="url(#glowD)"/>
+
+  <rect x="163" y="128" width="34" height="38" rx="9" fill="url(#bodyGradD)"/>
+
+  <rect x="118" y="18" width="124" height="122" rx="46" fill="url(#bodyGradD)" stroke="#050505" stroke-width="2"/>
+  <path d="M138,40 C160,30 210,28 224,45" fill="none" stroke="#050505" stroke-opacity="0.12" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="140" y="62" width="80" height="36" rx="14" fill="#0b0b0b"/>
+
+  <g>
+    <rect x="152" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowD)"/>
+    <rect x="191" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowD)"/>
+  </g>
+
+  <g fill="#0b0b0b">
+    <rect x="150" y="72" width="21" height="0" rx="4">
+      <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="189" y="72" width="21" height="0" rx="4">
+      <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

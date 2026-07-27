@@ -17,7 +17,7 @@
 ## About
 
 - 🎓 Undergraduate student at the **National Institute of Business Management (NIBM)**
-- 💬 Ask me anything — always happy to help
+- 💬 Ask me anything - always happy to help
 - ⚡ I enjoy connecting with people from different backgrounds
 - 📫 Reach me at **thisara.a2001@gmail.com**
 

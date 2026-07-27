@@ -5,6 +5,8 @@
   <img alt="Robot" src="assets/robot-light.svg" width="180">
 </picture>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">
   <img alt="Thisara Ariyawansha" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">

@@ -29,16 +29,23 @@
   <rect x="140" y="62" width="80" height="36" rx="14" fill="#040404"/>
 
   <g>
-    <rect x="152" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
-    <rect x="191" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
-  </g>
+    <g>
+      <rect x="152" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
+      <rect x="191" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
+    </g>
 
-  <g fill="#040404">
-    <rect x="150" y="72" width="21" height="0" rx="4">
-      <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="189" y="72" width="21" height="0" rx="4">
-      <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
-    </rect>
+    <g fill="#040404">
+      <rect x="150" y="72" width="21" height="0" rx="4">
+        <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="189" y="72" width="21" height="0" rx="4">
+        <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 6,0; 6,0; -6,-2; -6,-2; 0,3; 0,3; 0,0"
+      keyTimes="0;0.15;0.35;0.5;0.7;0.85;0.95;1"
+      dur="6s" repeatCount="indefinite"/>
   </g>
 </svg>

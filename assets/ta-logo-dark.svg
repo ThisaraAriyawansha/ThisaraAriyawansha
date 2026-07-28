@@ -1,8 +1,0 @@
-<svg width="225" height="165" viewBox="5 35 225 165" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TA monogram">
-  <g fill="#ffffff">
-    <text x="18" y="150" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="150">T</text>
-    <text x="80" y="168" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="115">A</text>
-    <path d="M 136,163 C 148,178 172,182 192,170 C 205,162 209,148 200,140 C 195,136 188,138 187,144 C 186,149 191,152 195,150"
-          fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-</svg>

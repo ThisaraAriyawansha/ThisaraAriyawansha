@@ -22,31 +22,11 @@
 
 ## About
 
-<table>
-<tr>
-<td width="190" align="center" valign="middle">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ta-logo-dark.svg">
-  <img alt="TA" src="assets/ta-logo-light.svg" width="170">
-</picture>
+<img alt="thisara@github fetch card" src="assets/fetch-card.svg">
 
-</td>
-<td valign="middle">
-
-<pre>
-thisara@github
----------------
-Role        Associate Software Engineer
-Education   NIBM — Software Engineering (internship completed)
-Status      Undergraduate, always learning
-Vibe        Ask me anything, happy to help
-Email       thisara.a2001@gmail.com
-</pre>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 

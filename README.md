@@ -24,7 +24,10 @@
 
 <div align="center">
 
-<img alt="thisara@github fetch card" src="assets/fetch-card.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fetch-card-dark.svg">
+  <img alt="thisara@github fetch card" src="assets/fetch-card-light.svg">
+</picture>
 
 </div>
 

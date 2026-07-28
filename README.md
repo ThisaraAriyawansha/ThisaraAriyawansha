@@ -14,10 +14,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=ffffff&style=flat-square&labelColor=000000">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=000000&style=flat-square&labelColor=ffffff">
-</picture>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=thisaraariyawansha&label=PROFILE+VIEWS&color=1a1a1a&style=flat-square">
 
 </div>
 
@@ -36,7 +33,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisara-ariyawansha-274263284) [![Facebook](https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/thisara.ariyawansha) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thisara_a_) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@thisara.a2001) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@thisara_a2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square)](https://www.linkedin.com/in/thisara-ariyawansha-274263284) [![Facebook](https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/thisara.ariyawansha) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thisara_a_) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@thisara.a2001) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@thisara_a2001)
 
 </div>
 

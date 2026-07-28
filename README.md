@@ -23,7 +23,7 @@
 ## About
 
 - 💼 Currently working as an **Associate Software Engineer**
-- 🎓 Graduate of the **National Institute of Business Management (NIBM)**, completed my internship
+- 🎓 Undergraduate student at the **National Institute of Business Management (NIBM)**, completed my internship
 - 💬 Ask me anything - always happy to help
 - ⚡ I enjoy connecting with people from different backgrounds
 - 📫 Reach me at **thisara.a2001@gmail.com**

@@ -22,11 +22,31 @@
 
 ## About
 
-- 💼 Currently working as an **Associate Software Engineer**
-- 🎓 Undergraduate student at the **National Institute of Business Management (NIBM)**, completed my internship
-- 💬 Ask me anything - always happy to help
-- ⚡ I enjoy connecting with people from different backgrounds
-- 📫 Reach me at **thisara.a2001@gmail.com**
+<table>
+<tr>
+<td width="190" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ta-logo-dark.svg">
+  <img alt="TA" src="assets/ta-logo-light.svg" width="170">
+</picture>
+
+</td>
+<td valign="middle">
+
+<pre>
+thisara@github
+---------------
+Role        Associate Software Engineer
+Education   NIBM — Software Engineering (internship completed)
+Status      Undergraduate, always learning
+Vibe        Ask me anything, happy to help
+Email       thisara.a2001@gmail.com
+</pre>
+
+</td>
+</tr>
+</table>
 
 <br>
 

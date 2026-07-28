@@ -1,11 +1,16 @@
-<svg width="180" height="176" viewBox="98 0 164 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blinking robot face">
+<svg width="180" height="180" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech robot face">
   <defs>
     <linearGradient id="bodyGradL" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#e9e9e9"/>
-      <stop offset="100%" stop-color="#8f8f8f"/>
+      <stop offset="0%" stop-color="#f2f2f2"/>
+      <stop offset="55%" stop-color="#cfcfcf"/>
+      <stop offset="100%" stop-color="#9a9a9a"/>
     </linearGradient>
-    <filter id="glowL" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <linearGradient id="visorGradL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="glowL" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -13,29 +18,60 @@
     </filter>
   </defs>
 
-  <rect x="118" y="18" width="124" height="122" rx="46" fill="url(#bodyGradL)" stroke="#050505" stroke-width="2"/>
-  <path d="M138,40 C160,30 210,28 224,45" fill="none" stroke="#050505" stroke-opacity="0.12" stroke-width="6" stroke-linecap="round"/>
-
-  <rect x="140" y="62" width="80" height="36" rx="14" fill="#0b0b0b"/>
-
   <g>
-    <g>
-      <rect x="152" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
-      <rect x="191" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
-    </g>
-
-    <g fill="#0b0b0b">
-      <rect x="150" y="72" width="21" height="0" rx="4">
-        <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="189" y="72" width="21" height="0" rx="4">
-        <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-
     <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 6,0; 6,0; -6,-2; -6,-2; 0,3; 0,3; 0,0"
+      values="0,0; 3,0; 3,0; -3,-1; -3,-1; 0,2; 0,2; 0,0"
       keyTimes="0;0.15;0.35;0.5;0.7;0.85;0.95;1"
       dur="6s" repeatCount="indefinite"/>
+
+    <!-- antenna -->
+    <line x1="100" y1="20" x2="100" y2="4" stroke="#4a4a4a" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="100" cy="4" r="5" fill="#00e5ff" filter="url(#glowL)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- head plate (octagon) -->
+    <path d="M52,20 L148,20 L170,42 L170,128 L148,150 L52,150 L30,128 L30,42 Z"
+      fill="url(#bodyGradL)" stroke="#050505" stroke-width="2.5"/>
+
+    <!-- panel seam -->
+    <line x1="40" y1="46" x2="160" y2="46" stroke="#050505" stroke-opacity="0.15" stroke-width="2"/>
+
+    <!-- corner rivets -->
+    <circle cx="44" cy="34" r="3" fill="#7a7a7a" stroke="#050505" stroke-width="1"/>
+    <circle cx="156" cy="34" r="3" fill="#7a7a7a" stroke="#050505" stroke-width="1"/>
+    <circle cx="44" cy="136" r="3" fill="#7a7a7a" stroke="#050505" stroke-width="1"/>
+    <circle cx="156" cy="136" r="3" fill="#7a7a7a" stroke="#050505" stroke-width="1"/>
+
+    <!-- circuit traces -->
+    <path d="M36,100 L48,100 L48,112" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="48" cy="112" r="2.4" fill="#00e5ff" fill-opacity="0.7"/>
+    <path d="M164,100 L152,100 L152,112" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="152" cy="112" r="2.4" fill="#00e5ff" fill-opacity="0.7"/>
+
+    <!-- visor / HUD screen -->
+    <rect x="50" y="62" width="100" height="46" rx="10" fill="url(#visorGradL)" stroke="#00e5ff" stroke-opacity="0.35" stroke-width="1.5"/>
+
+    <g>
+      <g>
+        <rect x="63" y="76" width="20" height="17" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
+        <rect x="117" y="76" width="20" height="17" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
+      </g>
+      <g fill="#050505">
+        <rect x="61" y="76" width="24" height="0" rx="4">
+          <animate attributeName="height" values="0;0;17;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="115" y="76" width="24" height="0" rx="4">
+          <animate attributeName="height" values="0;0;17;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- speaker grill mouth -->
+    <g fill="#050505" fill-opacity="0.6">
+      <rect x="90" y="122" width="4" height="10" rx="1.5"/>
+      <rect x="98" y="122" width="4" height="10" rx="1.5"/>
+      <rect x="106" y="122" width="4" height="10" rx="1.5"/>
+    </g>
   </g>
 </svg>

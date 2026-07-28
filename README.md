@@ -8,8 +8,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">
-  <img alt="tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;NIBM+Undergraduate;Always+learning%2C+always+building.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;Associate+Software+Engineer;Always+learning%2C+always+building.">
+  <img alt="tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Thisara+%F0%9F%91%8B;Associate+Software+Engineer;Always+learning%2C+always+building.">
 </picture>
 
 <br>
@@ -22,7 +22,8 @@
 
 ## About
 
-- 🎓 Undergraduate student at the **National Institute of Business Management (NIBM)**
+- 💼 Currently working as an **Associate Software Engineer**
+- 🎓 Graduate of the **National Institute of Business Management (NIBM)**, completed my internship
 - 💬 Ask me anything - always happy to help
 - ⚡ I enjoy connecting with people from different backgrounds
 - 📫 Reach me at **thisara.a2001@gmail.com**

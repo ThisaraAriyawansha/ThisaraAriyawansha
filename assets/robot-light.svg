@@ -1,8 +1,8 @@
 <svg width="180" height="176" viewBox="98 0 164 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blinking robot face">
   <defs>
     <linearGradient id="bodyGradL" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#4a4a4a"/>
-      <stop offset="100%" stop-color="#050505"/>
+      <stop offset="0%" stop-color="#e9e9e9"/>
+      <stop offset="100%" stop-color="#8f8f8f"/>
     </linearGradient>
     <filter id="glowL" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
@@ -13,18 +13,18 @@
     </filter>
   </defs>
 
-  <rect x="118" y="18" width="124" height="122" rx="46" fill="url(#bodyGradL)" stroke="#000" stroke-width="2"/>
-  <path d="M138,40 C160,30 210,28 224,45" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="6" stroke-linecap="round"/>
+  <rect x="118" y="18" width="124" height="122" rx="46" fill="url(#bodyGradL)" stroke="#050505" stroke-width="2"/>
+  <path d="M138,40 C160,30 210,28 224,45" fill="none" stroke="#050505" stroke-opacity="0.12" stroke-width="6" stroke-linecap="round"/>
 
-  <rect x="140" y="62" width="80" height="36" rx="14" fill="#040404"/>
+  <rect x="140" y="62" width="80" height="36" rx="14" fill="#0b0b0b"/>
 
   <g>
     <g>
-      <rect x="152" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
-      <rect x="191" y="72" width="17" height="15" rx="4" fill="#eaffff" filter="url(#glowL)"/>
+      <rect x="152" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
+      <rect x="191" y="72" width="17" height="15" rx="4" fill="#00e5ff" filter="url(#glowL)"/>
     </g>
 
-    <g fill="#040404">
+    <g fill="#0b0b0b">
       <rect x="150" y="72" width="21" height="0" rx="4">
         <animate attributeName="height" values="0;0;15;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
       </rect>
